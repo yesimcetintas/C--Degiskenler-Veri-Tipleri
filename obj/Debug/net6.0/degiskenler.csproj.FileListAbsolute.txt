@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/bin/Debug/net6.0/degiskenler
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/bin/Debug/net6.0/degiskenler.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/bin/Debug/net6.0/degiskenler.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/bin/Debug/net6.0/degiskenler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/bin/Debug/net6.0/degiskenler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/refint/degiskenler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/degiskenler.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/degiskenler/obj/Debug/net6.0/ref/degiskenler.dll
